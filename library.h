@@ -1,0 +1,6 @@
+#ifndef HTTP_CLIENT_LIBRARY_H
+#define HTTP_CLIENT_LIBRARY_H
+
+void hello();
+
+#endif //HTTP_CLIENT_LIBRARY_H
